@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/nkpremices/express-multiparty-base64-file-parser.git"
   },
-  "keywords": [],
+  "keywords": ["express", "multiparty", "base64", "file", "parser"],
   "author": "nkpremices",
   "license": "ISC",
   "bugs": {
