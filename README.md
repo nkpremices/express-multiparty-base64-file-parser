@@ -1,4 +1,4 @@
-# Express Multiparty Base64 File Parser
+# Express Multiparty Parser
 
 A package that parses an express request fields but also files to base64 strings using multiparty
 
@@ -7,20 +7,20 @@ A package that parses an express request fields but also files to base64 strings
 ```bash
     # With npm
 
-    npm install expres-multiparty-parser
+    npm install express-multiparty-parser
 ```
 
 ```bash
     # Or with yarn
 
-    yarn add expres-multiparty-parser
+    yarn add express-multiparty-parser
 ```
 
 # Usage
 
 ```typescript
 import express from "express";
-import { parseMultipartData } from "expres-multiparty-parser";
+import { parseMultipartData } from "express-multiparty-parser";
 
 const app = express();
 
