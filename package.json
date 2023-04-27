@@ -1,25 +1,24 @@
 {
-  "name": "express-multiparty-base64-file-parser",
-  "version": "0.0.3",
+  "name": "expres-multiparty-parser",
+  "version": "0.0.1",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "source": "src/lib/index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "tsc"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nkpremices/express-multiparty-base64-file-parser.git"
+    "url": "git+https://github.com/nkpremices/expres-multiparty-parser.git"
   },
   "keywords": ["express", "multiparty", "base64", "file", "parser"],
   "author": "nkpremices",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nkpremices/express-multiparty-base64-file-parser/issues"
+    "url": "https://github.com/nkpremices/expres-multiparty-parser/issues"
   },
-  "homepage": "https://github.com/nkpremices/express-multiparty-base64-file-parser#readme",
+  "homepage": "https://github.com/nkpremices/expres-multiparty-parser#readme",
   "dependencies": {
     "express": "^4.18.2",
     "multiparty": "^4.2.3",
